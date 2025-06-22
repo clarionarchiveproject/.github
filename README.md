@@ -2,7 +2,7 @@
 
 **Preserving the past. Empowering the future.**
 
-The Clarion Archive Project is a community-driven initiative to preserve and share the legacy of Clarion templates, tools, and knowledge — especially those at risk of disappearing due to inactive websites, retired developers, or lost source code.
+The Clarion Archive Project is a community-driven initiative to preserve and share the legacy of Clarion templates, tools, and knowledge - especially those at risk of disappearing due to inactive websites, retired developers, or lost source code.
 
 This organization will serve as a central hub for:
 
@@ -14,6 +14,5 @@ This organization will serve as a central hub for:
 We are currently building the website and organizing content. If you’re a Clarion developer, tool author, or simply interested in helping preserve decades of Clarion history, we’d love to hear from you.
 
 🌐 Website: [clarionarchiveproject.org](https://clarionarchiveproject.org)  
-📬 Contact: [clarionarchiveproject.org/contact](https://clarionarchiveproject.org/contact)
 
 🔜 Full project launch coming soon...
